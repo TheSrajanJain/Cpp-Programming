@@ -30,42 +30,13 @@ This repo contains a collection of beginner to intermediate C++ programs designe
 | 21 | Simple Quiz Game             | Multiple-choice quiz game          |
 | 22 | Currency Converter           | Convert USD to INR                 |
 
-## 🚀 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/TheSrajanJain/C++-By-Srajan-Jain.git
-Navigate to the project folder.
-
-Compile the .cpp file using a C++ compiler, for example:
-
-bash
-Copy
-Edit
-g++ ProjectName.cpp -o ProjectName
-Run the executable:
-
-bash
-Copy
-Edit
-./ProjectName
 📌 About Me
 Hi, I’m Srajan Jain — a passionate learner and programmer focused on mastering C++ and building strong software development skills.
 Feel free to connect with me!
 
 GitHub: TheSrajanJain
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: (Coming Soon!)
 
-Email: your.email@example.com
+Email: thesrajanjain@gmail.com
 
-Thank you for visiting my repo!
-Happy coding! 🚀
-
-pgsql
-Copy
-Edit
-
-Just copy all of that and paste into your `README.md` file!  
-
-If you want, I can also help generate the file for you to download and upload directly.
